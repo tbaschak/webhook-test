@@ -10,4 +10,3 @@ this is a list of test items
 * test 5
 * test 6
 * test 7
-* 
