@@ -9,3 +9,5 @@ this is a list of test items
 * test 4
 * test 5
 * test 6
+* test 7
+* 
