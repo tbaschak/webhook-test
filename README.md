@@ -8,3 +8,4 @@ this is a list of test items
 * test 3
 * test 4
 * test 5
+* test 6
